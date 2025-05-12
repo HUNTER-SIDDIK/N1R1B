@@ -84,17 +84,18 @@
 
 ### 🌟 About Me
 - **Username:** [HUNTER-SIDDIK](https://github.com/HUNTER-SIDDIK)
-- **GitHub ID:** 108590422
+- **GitHub ID:**: 132101504
 - **Member Since:** 
 - **Last Active:** Mon May 12 2025
 
 ---
 
 ### 🚀 My GitHub Stats
-- **Public Repositories:** 39
-- **Public Gists:** 0
-- **Followers:** 0
-- **Following:** 0
+- 🔓 𝗣𝘂𝗯𝗹𝗶𝗰 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝗶𝗲𝘀: 50
+- 🎀 𝗙𝗼𝗹𝗹𝗼𝘄𝗲𝗿𝘀: 0
+- 🔖 𝗙𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴: 0
+- 📌 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗲𝗱: Friday, April, 28th 2023
+- ♻ 𝗔𝗰𝗰𝗼𝘂𝗻𝘁 𝗨𝗽𝗱𝗮𝘁𝗲𝗱: Sunday, May, 11th 2025
 - **Stars:** undefined ⭐ (This is a placeholder for your stars)
 
 ---
